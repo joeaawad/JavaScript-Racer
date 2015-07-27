@@ -1,5 +1,6 @@
 $(document).ready (function() {
   var competitors = [
+    // 65 = "a" and 76 = "l"
     new Player("player1", 65),
     new Player("player2", 76),
   ];
